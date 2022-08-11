@@ -1,0 +1,15 @@
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\bin\Debug\net6.0\example6.exe
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\bin\Debug\net6.0\example6.deps.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\bin\Debug\net6.0\example6.runtimeconfig.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\bin\Debug\net6.0\example6.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\bin\Debug\net6.0\example6.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.csproj.AssemblyReference.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.GeneratedMSBuildEditorConfig.editorconfig
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.AssemblyInfoInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.AssemblyInfo.cs
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.csproj.CoreCompileInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\refint\example6.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\example6.genruntimeconfig.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example6\obj\Debug\net6.0\ref\example6.dll
