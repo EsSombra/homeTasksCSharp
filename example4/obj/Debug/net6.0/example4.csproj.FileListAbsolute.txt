@@ -1,0 +1,15 @@
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.csproj.AssemblyReference.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.GeneratedMSBuildEditorConfig.editorconfig
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.AssemblyInfoInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.AssemblyInfo.cs
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.csproj.CoreCompileInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\bin\Debug\net6.0\example4.exe
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\bin\Debug\net6.0\example4.deps.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\bin\Debug\net6.0\example4.runtimeconfig.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\bin\Debug\net6.0\example4.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\bin\Debug\net6.0\example4.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\refint\example4.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\example4.genruntimeconfig.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example4\obj\Debug\net6.0\ref\example4.dll
