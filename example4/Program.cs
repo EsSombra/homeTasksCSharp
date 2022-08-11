@@ -1,4 +1,5 @@
-﻿System.Console.WriteLine("Введите первое число");
+//Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+System.Console.WriteLine("Введите первое число");
 double num1 = Convert.ToDouble(Console.ReadLine());
 System.Console.WriteLine("Введите второе число");
 double num2 = Convert.ToDouble(Console.ReadLine());
