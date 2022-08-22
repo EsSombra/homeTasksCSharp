@@ -1,0 +1,15 @@
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.csproj.AssemblyReference.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.GeneratedMSBuildEditorConfig.editorconfig
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.AssemblyInfoInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.AssemblyInfo.cs
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.csproj.CoreCompileInputs.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\bin\Debug\net6.0\example027.exe
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\bin\Debug\net6.0\example027.deps.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\bin\Debug\net6.0\example027.runtimeconfig.json
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\bin\Debug\net6.0\example027.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\bin\Debug\net6.0\example027.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\refint\example027.dll
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.pdb
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\example027.genruntimeconfig.cache
+J:\ботать\Знакомство с ЯП\seminars\homeTasks\homeTasksCSharp\example027\obj\Debug\net6.0\ref\example027.dll

@@ -6,8 +6,8 @@ Console.WriteLine("Enter second number");
 int numB = Convert.ToInt32(Console.ReadLine());
 int ToGrade (int num1, int num2)
 {
-    int grade = numA;
-    for (int count = 1; count < numB; count++) grade *= numA;
+    int grade = num1;
+    for (int count = 1; count < num2; count++) grade *= num1;
     return grade;
 }
  Console.WriteLine($"Number {numA} in grade {numB} is {ToGrade(numA,numB)}");
