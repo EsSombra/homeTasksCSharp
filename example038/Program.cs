@@ -7,11 +7,10 @@ int min = 0;
 int max = 0;
 for (int i = 0; i < size; i++)
 {
-    list[i] = Math.Round(new Random().NextDouble(),3);
-    if (list[i] < 1) list[i] = Math.Round(list[i]*10,3);
+    list[i] = Math.Round(new Random().NextDouble()*10,3);
     Console.Write(list[i] + "; ");
     if (list[i] < list[min]) min = i;
     if (list[i] > list[max]) max = i;
 }
-double diff = Math.Round(list[max] - list[min],3);
+double diff = list[max] - list[min];
 Console.WriteLine($"the difference between {list[max]} and {list[min]} is {diff}");
